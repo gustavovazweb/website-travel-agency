@@ -1,8 +1,9 @@
 # Bigtravel - Travel Agency Website<br>
 Technologies:
- * Frontend: HTML, CSS, Jquery, Javascript.
- * Framework CSS: Materialize.
- * Backend: PHP 7.<br>
+* Frontend: HTML, CSS and Javascript.
+* Framework CSS: Materialize.
+* Backend: PHP 7.
+* Library: Jquery.<br>
 <br>
 <table>
 	<tr>
