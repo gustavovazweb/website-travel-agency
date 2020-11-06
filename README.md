@@ -1,6 +1,6 @@
 # Bigtravel - Travel Agency Website<br>
 ## Description
-This is a corporate web site I developed for a travel agency.
+This is a corporate website I developed for a travel agency.
 ## Technologies:
 * Frontend: HTML, CSS and Javascript.
 * Framework CSS: Materialize.
